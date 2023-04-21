@@ -1,4 +1,4 @@
-[![StandWithUkraineBanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
+Ko[![StandWithUkraineBanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
   <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
@@ -67,7 +67,7 @@ Either you could locally host or deploy on ~~[Heroku](https://heroku.com)~~ Free
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://github.com/Anonymous17986/TG-FileStreamBot
 cd TG-FileStreamBot
 python3 -m venv ./venv
 . ./venv/bin/activate
